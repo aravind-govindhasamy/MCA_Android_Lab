@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PassingValues</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_UName">UserNAme</string>
+    <string name="hint_Password">Password</string>
+    <string name="title_activity_next">MainActivity</string>
+
+</resources>
