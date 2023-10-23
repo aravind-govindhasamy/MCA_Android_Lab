@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/android"
+        android:title="Android"/>
+    <item
+        android:id="@+id/ios"
+        android:title="IOS"/>
+    <item
+        android:id="@+id/bb"
+        android:title="BlackBerry"/>
+    <item
+        android:id="@+id/win"
+        android:title="Windows">
+    </item>
+
+</menu>
